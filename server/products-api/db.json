@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "name": "xiami",
+        "price": "200",
+        "status": true,
+        "id": 3
+      },
+      {
+        "name": "nokia",
+        "price": "300",
+        "status": true,
+        "id": 4
+      },
+      {
+        "name": "iphone x",
+        "price": "1000",
+        "status": false,
+        "id": 5
+      },
+      {
+        "id": 6,
+        "name": "Iphone 10X",
+        "price": "110000",
+        "status": false
+      }
+    ]
+  }
+  
