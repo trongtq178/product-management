@@ -75,4 +75,3 @@ export const updateProduct = (product) => {
         product
     }
 }
-
